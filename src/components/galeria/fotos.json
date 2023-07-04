@@ -1,0 +1,72 @@
+[
+    {
+      "titulo": "HTML",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/html.png",
+      "id": "1",
+      "tag": "Completos"
+    },
+    {
+      "titulo": "Css",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/css.png",
+      "id": "2",
+      "tag": "Completos"
+    },
+    {
+      "titulo": "JavaScript",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/js.jpg",
+      "id": "3",
+      "tag": "Completos"
+    },
+    {
+      "titulo": "React",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/React.jpg",
+      "id": "4",
+      "tag": "Aprendiz"
+    },
+    {
+      "titulo": "PHP",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/php.jpeg",
+      "id": "5",
+      "tag": "Futuros"
+    },
+    {
+      "titulo": "Python",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/phyton.jpg",
+      "id": "6",
+      "tag": "Futuros"
+    },
+    {
+      "titulo": "Java",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/java.png",
+      "id": "7",
+      "tag": "Futuros"
+    },
+    {
+      "titulo": "Perl",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/perl.jpg",
+      "id": "8",
+      "tag": "Futuros"
+    },
+    {
+      "titulo": "Go",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/golang.jpg",
+      "id": "9",
+      "tag": "Futuros"
+    },
+    {
+      "titulo": "C++",
+      "creditos": "Gilberto Jr",
+      "imagem": "/assets/imagens/galeria/c++.jpg",
+      "id": "10",
+      "tag": "Futuros"
+    }
+  ]
